@@ -1,0 +1,8 @@
+State of Memory
+
+     Variable     | Value |  Address
+    p1.x          |  3.0  |   100
+    p1.y          |  4.0  |   104
+    p = &p1       |  &p1  |   200
+       xVal       |  3.0  |   300
+       yVal       |  4.0  |   400
